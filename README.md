@@ -114,6 +114,17 @@ And there you have it! A glimpse into our project journey exploring the heart of
 
 ### Figures
 
+![Categories_of_Public_Spaces](figures\Categories_of_Public_Spaces.png)
+![LGA_Location_Map.png](figures\LGA_Location_Map.png)
+![lga_open_spaces.png](figures\lga_open_spaces.png)
+![LGAvsPopulation.png](figures\LGAvsPopulation.png)
+![Owner_Space_Type.png](figures\Owner_Space_Type.png)
+![Owners_of_Green_Spacese.png](figures\Owners_of_Green_Spacese.png)
+![pop_change_vs_schools_comparison.png](figures\pop_change_vs_schools_comparison.png)
+![schoolsvsLGAvsOpenSpaces.png](figures\schoolsvsLGAvsOpenSpaces.png)
+![spaces_vs_pop_change.png](figures\spaces_vs_pop_change.png)
+![spaces_vs_schools_comparison.png](figures\spaces_vs_schools_comparison.png)
+
 
 
 ## Authors
