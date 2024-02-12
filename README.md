@@ -114,9 +114,9 @@ And there you have it! A glimpse into our project journey exploring the heart of
 
 ## Presentation
 
-
-
 ### Powerpoint Slides PDF Location
+
+Group-Project-1\Presentation\Open_Spaces_Presentation.pdf
 
 ### Figures
 
